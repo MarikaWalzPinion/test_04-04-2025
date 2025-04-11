@@ -1,0 +1,25 @@
+# ninja log v5
+3254	3523	1743760383009350075	test_04-04-2025.elf	38a30ff03ef12d36
+4	1535	1743760381027231378	CMakeFiles/test_04-04-2025.dir/Core/Src/stm32u5xx_hal_msp.c.obj	86e88ea7a11de287
+10	1763	1743760381254040978	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c.c.obj	2eb5d9a3f34d0b2f
+207	2029	1743760381520295728	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc.c.obj	c3fa683c639917af
+3	1518	1743760380997647515	CMakeFiles/test_04-04-2025.dir/Core/Src/stm32u5xx_it.c.obj	92dc097cfbb829ac
+1536	2518	1743760382003498796	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash_ex.c.obj	952eb438c3984a99
+9	1574	1743760381046953951	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal.c.obj	1cbae008fe54ff1b
+154	1916	1743760381411821571	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c_ex.c.obj	647d4c07d8a359ae
+7	1664	1743760381145566822	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cortex.c.obj	7db0fa2456d9b15
+2029	3248	1743760382269753549	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gtzc.c.obj	7c8d5e1b9bcf51c9
+1763	2509	1743760382003498796	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr.c.obj	4f3303d3fbeec4b9
+1554	2325	1743760381806273053	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c.obj	b1dec0aa5965791a
+1664	3042	1743760382121834240	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_exti.c.obj	3ca4014298223338
+1518	2534	1743760382023221370	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash.c.obj	cb0f28909405059
+2139	3243	1743760382121834240	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_icache.c.obj	ad437a3586f12ad6
+6	206	1743760379689006265	CMakeFiles/test_04-04-2025.dir/Core/Src/sysmem.c.obj	5ec2281d69455364
+1623	3254	1743760382181001967	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma_ex.c.obj	baff34069137bcd6
+6	152	1743760379639699830	CMakeFiles/test_04-04-2025.dir/startup_stm32u575xx.s.obj	ddbb104ce7b81095
+6	1623	1743760381106121673	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32u5xx.c.obj	686ad5d970eb49ed
+1575	2354	1743760381835856916	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c.obj	de1017ae99d50489
+902	2139	1743760381628769886	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c.obj	1817f456b1ec9493
+2	1554	1743760381037092664	CMakeFiles/test_04-04-2025.dir/Core/Src/main.c.obj	1e9fe69ee2d28446
+1917	3238	1743760382309198697	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr_ex.c.obj	e8200cf8d1711afd
+6	902	1743760379787619135	CMakeFiles/test_04-04-2025.dir/Core/Src/syscalls.c.obj	944d7a8e7cd533eb
